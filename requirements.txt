@@ -1,5 +1,0 @@
-streamlit
-langchain.community
-langchain-groq
-dotenv
-PyMuPDF
