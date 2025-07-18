@@ -1,0 +1,22 @@
+# Backend
+fastapi
+uvicorn
+pydantic
+langchain
+groq
+python-dotenv
+langchain_groq
+langchain_openai
+langchain_community
+langchainhub
+PyMuPDF
+logging
+
+# Frontend
+streamlit
+requests
+pyperclip
+uuid
+
+# Optional / Enhancement Packages
+python-multipart  # For file uploads if needed
