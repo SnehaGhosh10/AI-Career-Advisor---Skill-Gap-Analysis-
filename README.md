@@ -12,16 +12,22 @@ Upload your resume (PDF) and paste a JD to receive:
 
 Built with Streamlit + LangChain + Groq LLM for fast, insightful, structured feedback to empower your career growth.
 
-🚀 Features
+🚀 Features:
 📂 Upload Resumes Easily (PDF parsing)
+
 📝 Paste Any Job Description for instant matching
+
 🤖 AI Skill Gap Analysis with clear actionable insights
+
 🛠️ Resume Improvement Recommendations
+
 🌿 Personalized Career Advice tailored to your goals
+
 ⚡ Fast Analysis Powered by Groq LLM via LangChain
+
 ✨ Clean, responsive Streamlit interface
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 🐍 Python, Streamlit
 
 🪄 LangChain, Groq LLM
@@ -30,7 +36,7 @@ Built with Streamlit + LangChain + Groq LLM for fast, insightful, structured fee
 
 🔐 dotenv for secure API management
 
-🔮 Future Plans
+🔮 Future Plans:
 ✅ Multi-resume batch analysis
 ✅ Track improvement and history over time
 ✅ Auto-generate skill-focused resume bullet points
