@@ -1,4 +1,5 @@
 🧑‍💼 AI Career Advisor
+
 Empower your job search with AI-powered resume analysis.
 
 AI Career Advisor analyzes how well your resume matches your target job description, providing actionable feedback to strengthen your applications.
@@ -29,6 +30,7 @@ Built with Streamlit + LangChain + Groq LLM for fast, insightful, structured fee
 ✨ Clean, responsive Streamlit interface
 
 🛠️ Tech Stack:
+
 🐍 Python, Streamlit
 
 🪄 LangChain, Groq LLM
@@ -38,6 +40,7 @@ Built with Streamlit + LangChain + Groq LLM for fast, insightful, structured fee
 🔐 dotenv for secure API management
 
 🔮 Future Plans:
+
 ✅ Multi-resume batch analysis
 ✅ Track improvement and history over time
 ✅ Auto-generate skill-focused resume bullet points
