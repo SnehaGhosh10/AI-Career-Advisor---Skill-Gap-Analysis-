@@ -1,21 +1,37 @@
-# 🧠 AI Career Advisor - Resume & JD Skill Gap Analysis
+🧑‍💼 AI Career Advisor
+Empower your job search with AI-powered resume analysis.
 
-A GenAI-powered Streamlit web app that analyzes a candidate’s **resume** and a target **job description**, then provides:
+AI Career Advisor analyzes how well your resume matches your target job description, providing actionable feedback to strengthen your applications.
 
-- ✅ Skill gap report in structured JSON
-- ✅ Personalized career advice
-- ✅ Recommendations to improve resume
+Upload your resume (PDF) and paste a JD to receive:
 
-Built using:
-- 🔗 LangChain + Groq API (Mixtral or LLaMA3)
-- 📄 PyMuPDF for PDF parsing
-- 🌐 Streamlit for UI
-- 💾 .env for secure key management
+✅ Match Score
+✅ Missing & Weak Skills Analysis
+✅ Actionable Resume Improvement Tips
+✅ Personalized Career Advice
 
----
+Built with Streamlit + LangChain + Groq LLM for fast, insightful, structured feedback to empower your career growth.
 
-## 🚀 Features
+🚀 Features
+📂 Upload Resumes Easily (PDF parsing)
+📝 Paste Any Job Description for instant matching
+🤖 AI Skill Gap Analysis with clear actionable insights
+🛠️ Resume Improvement Recommendations
+🌿 Personalized Career Advice tailored to your goals
+⚡ Fast Analysis Powered by Groq LLM via LangChain
+✨ Clean, responsive Streamlit interface
 
-- Upload your **Resume (PDF)** and **Job Description (PDF or text)**
-- Extracts key skills, experience, education
-- Uses **Groq's LLM** to compare resume & JD
+🛠️ Tech Stack
+🐍 Python, Streamlit
+
+🪄 LangChain, Groq LLM
+
+📄 PyMuPDF for PDF parsing
+
+🔐 dotenv for secure API management
+
+🔮 Future Plans
+✅ Multi-resume batch analysis
+✅ Track improvement and history over time
+✅ Auto-generate skill-focused resume bullet points
+✅ Integrate job scraping for personalized role suggestions
