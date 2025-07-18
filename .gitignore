@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# Temporary and uploaded files
+*.pdf
+temp_resume.pdf
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
