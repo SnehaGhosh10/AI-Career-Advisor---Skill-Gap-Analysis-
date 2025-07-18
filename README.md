@@ -13,6 +13,7 @@ Upload your resume (PDF) and paste a JD to receive:
 Built with Streamlit + LangChain + Groq LLM for fast, insightful, structured feedback to empower your career growth.
 
 🚀 Features:
+
 📂 Upload Resumes Easily (PDF parsing)
 
 📝 Paste Any Job Description for instant matching
